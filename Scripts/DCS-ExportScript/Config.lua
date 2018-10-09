@@ -15,7 +15,7 @@ ExportScript.Config.IkarusPort      = 1625         -- Port Ikarus (1625)
 ExportScript.Config.IkarusSeparator = ":"
 
 -- D.A.C. (DCS Arcaze Connector)
-ExportScript.Config.DACExport        = true        -- false for not use
+ExportScript.Config.DACExport        = false        -- false for not use
 ExportScript.Config.DAC              = {}
 -- first hardware
 ExportScript.Config.DAC[1]           = {}
